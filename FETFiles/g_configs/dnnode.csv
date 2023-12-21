@@ -1,0 +1,39 @@
+Index,below_node_idx,Index,below_node_text
+0,1,0,Siva&Co
+1,2,1,Receivable Services / Trade Finance Department
+2,3,2,Attn: Mr. Sundar
+3,4,3,PO Box 999 Downtown
+4,5,4,DUBAI
+5,6,5,United Arab Emirates
+6,20,6,Subject
+7,8,7,211074
+8,9,8,Purchase Order
+9,10,9,1429876543
+10,11,10,Invoice date
+11,12,11,2021-11-30 00:00:00
+12,13,12,Keizersgracht 559
+14,14,14,1017 DR Amsterdam
+15,15,15,The Netherlands
+16,17,16,+31 (0)20 627 03 06
+17,-1,17,
+18,18,18,E Siva@rami.nl
+19,19,19,W www.siva.i.nl
+20,21,20,Annual Membership Fee 2022 (Circular 5335)
+21,24,21,212~22641772
+22,-1,22,
+23,26,23,Description
+24,27,24,EUR
+25,25,25,Annual Membership Fee 2022 (Circular 5335)
+26,28,26,Total
+27,29,27,EUR
+28,30,28,This invoice is payable within 15 days from invoice date.
+29,31,29,"Please click on the link in the email to pay by credit card,"
+30,-1,30,
+31,32,31,"or remit above amount to the Kirthi account with ABN.AMRO Bank, P.O. Box 283, 1000 EA Amsterdam, The Netherlands"
+32,33,32,SWIFT code: ABNANLA
+33,34,33,IBAN: NLO4ABNA1234567891
+34,35,34,114222222M9
+35,36,35,VAT number: NL801234567B01
+36,37,36,Registration Chamber of Commerce: 40531234
+37,38,37,Out of scope EU VAT
+38,-1,38,

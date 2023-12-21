@@ -1,0 +1,39 @@
+Index,text,side_node_idx,below_node_idx
+0,INTERNAL,-1,1
+1,Standard Chartered Bank (UAE),11,2
+2,Receivable Services / Trade Finance Department,-1,3
+3,Attn: Mr. Sundar,13,4
+4,PO Box 999 Downtown,-1,5
+5,DUBAI,15,6
+6,United Arab Emirates,17,20
+7,Invoice number,-1,8
+8,211074,-1,9
+9,Purchase Order,-1,10
+10,1429876543,-1,11
+11,Invoice date,-1,12
+12,30-Nov-21,-1,13
+14,1017 DR Amsterdam,-1,14
+15,The Netherlands,-1,15
+16,T,-1,17
+17,+31 (0)20 627 03 06,-1,-1
+18,E vijay@kirthi.nl,-1,18
+19,W www.kirthi.nl,-1,19
+20,Subject,21,21
+21,Annual Membership Fee 2022 (Circular 5335),23,24
+22,Currency,-1,-1
+23,Amount,26,26
+24,Description,-1,27
+25,Annual Membership Fee 2022 (Circular 5335),27,25
+26,EUR,-1,28
+27,7500,-1,29
+28,Total,29,30
+29,EUR,30,31
+30,7500,-1,-1
+31,This invoice is payable within 15 days from invoice date.,-1,32
+32,"Please click on the link in the email to pay by credit card,",-1,33
+33,"or remit above amount to the Kirthi account with ABNAMRO Bank, P.O. Box 283, 1000 EA Amsterdam, The Netherlands",-1,34
+34,SWIFT code: ABNANLA,-1,35
+35,IBAN: NLO4ABNA1234567891,-1,36
+36,VAT number: NL801234567B01,-1,37
+37,Registration Chamber of Commerce: 40531234,-1,38
+38,Out of scope EU VAT,,-1
